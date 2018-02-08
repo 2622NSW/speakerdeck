@@ -1,8 +1,7 @@
 # Speaker Deck
-A repository for my Speaker Deck presentations
 
-180208 A Partial History of Performance Analysis (https://speakerdeck.com/keith_lyons/a-partial-history-of-performance-analysis-1)
+A repository for my Speaker Deck presentations at https://speakerdeck.com/keith_lyons
 
-180131 A Partial History of Performance Analysis 
+180208 A Partial History of Performance Analysis https://speakerdeck.com/keith_lyons/a-partial-history-of-performance-analysis-1
 
-(https://speakerdeck.com/keith_lyons/a-partial-history-of-performance-analysis)
+180131 A Partial History of Performance Analysis https://speakerdeck.com/keith_lyons/a-partial-history-of-performance-analysis
